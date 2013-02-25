@@ -1,0 +1,26 @@
+<div id="page">
+    <div id="message">
+        <span>Here are some samples of valid/invalid requests to the service:</span>
+    </div>
+    <div class="content">
+        <span>For examples of successfull REST request, click on one of the following links:</span>
+        <ul>
+            <li><a href="/resume">/resume</a></li>
+            <li><a href="/resume/summary">/resume/section</a> (defaults to loading resume sections)</li>
+            <li><a href="/resume/section/id/summary">/resume/get/id/summary</a> (specific section regular notation)</li>
+            <li><a href="/resume/section/id/summary">/resume/section/id/summary</a> (specific section notation)</li>
+            <li><a href="/resume/summary">/resume/summary</a> (specific section short-hand notation)</li>
+            <li><a href="/resume/summary/foo/bar">/resume/summary/foo/bar</a> (extra parameters are ignored)</li>
+        </ul>
+        <span>For examples of unsuccessfull REST request, click on one of the following links:</span>
+        <ul>
+            <li><a href="/foo">/foo</a> (page non-existent)</li>
+            <li><a href="/resume/foo">/resume/foo</a> (operation non-existent)</li>
+            <li><a href="/resume/foo">/resume/delete</a> (operation not allowed)</li>
+        </ul>
+        <span>Extra pages:</span>
+        <ul>
+            <li><a href="/about">About</a></li>
+            <li><a href="/help">Help</a></li>
+    </div>
+</div>

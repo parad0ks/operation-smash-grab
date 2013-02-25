@@ -1,0 +1,7 @@
+Options +FollowSymlinks
+Options -indexes
+
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule !\.(js|ico|gif|jpg|png|swf|css|xml) /index.php

@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(150, 0, 0);
+    overflow: hidden;
+}
+
+ul, li {
+    list-style: none;
+}
+
+#message {
+    width: 100%;
+    text-align: center;
+    border: 1px solid #000;
+    background-color: #FFF;
+}
+
+#start {
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+#content {
+    display: none;
+    text-align: center;
+}
+
+#content .tab {
+    padding: 20px;
+}
+
+#content .tab span {
+    min-height: 100px;
+    width: 100%;
+    line-height: 60px;
+}
+
+#content .section {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#content .response {
+    font-weight: normal;
+    display: none;
+}
+
+.content {
+    text-align: center;
+    background-color: rgb(255,0,0);
+    border: 1px solid #000;
+    margin-top: 20px;
+}

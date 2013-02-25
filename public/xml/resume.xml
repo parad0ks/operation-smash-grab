@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resume>
+    <information>
+        <title>About</title>
+        <name>Djordje Mandaric</name>
+        <address>11049 111th Ave NE, Kirkland, WA 98033</address>
+        <phone>425.205.5392</phone>
+        <email>djordje2004@gmail.com</email>
+    </information>
+    <summary>
+        <title>Skills Summary</title>
+        <items>
+            <item>PHP 5.3 ZCE (Zend Certified Engineer) with 7 years of experience using PHP, Perl, Python, JS (jQuery), MySQL, XML, SOAP and REST Web Services, HTML, CSS with additional experience in ANSI C, C++, Java</item>
+            <item>3 years of experience as a Development Lead in an eCommerce team of over 12 developers</item>
+            <item>Over 4 years of experience with MVC architecture frameworks: Zend Framework, CakePHP and Symphony</item>
+            <item>Excellent Object-oriented design, TDD and code profiling skills with experience in architecting modern, customer-facing eCommerce, customer support applications and web services</item>
+            <item>Strong software design documentation skills</item>
+            <item>Strong organizational, leadership and managerial skills</item>
+            <item>Excellent knowledge of advanced mathematics with outstanding deduction and problem solving skills</item>
+            <item>Skilled in working effectively with diverse groups at all organizational levels to achieve common objectives</item>
+            <item>Loyal, driven, aims to exceed expectations and willing to assume increased responsibility</item>
+        </items>
+    </summary>
+    <experience>
+        <title>Professional Experience</title>
+        <jobs>
+            <job>
+                <title>Senior Software Engineer, Clearwire (10/2008 - 01/2013)</title>
+                <descriptions>
+                    <description>Contributed to SDLC process changes and development paradigm shift and continuously acted as contributor in business/technical requirement definition, software design, development and review</description>
+                    <description>Lead large project development efforts by architecting modern MVC applications</description>
+                    <description>Redesigned core library (eCommerce) objects using OO  approach and TDD process</description>
+                    <description>Setup customer facing applications using Zend Framework (developed numerous Controller plugins, action Helpers, View helpers and other custom objects extending Zend library) and built various custom frameworks (Multivariate testing, Dynamic Routes, Custom Configuration, etc.)</description>
+                </descriptions>
+            </job>
+        </jobs>
+    </experience>
+    <education>
+        <title>Education History</title>
+        <degrees>
+            <degree>
+                <level>BS, Computer Science (May, 2008)</level>
+                <institution>Southeastern Oklahoma State University</institution>
+                <annotation>Graduated with minor in Mathematics</annotation>
+            </degree>
+        </degrees>
+    </education>
+    <skillset>
+        <title>Additional Skills and Interests</title>
+        <skills>
+            <skill>Languages: fluent English, fluent Serbian (Croatian, Bosnian), basics German, Italian and Spanish</skill>
+            <skill>Member of MENSA International</skill>
+            <skill>Member of USPA (United States Parachute Association)</skill>
+        </skills>
+    </skillset>
+</resume>

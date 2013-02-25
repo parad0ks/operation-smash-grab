@@ -1,0 +1,16 @@
+<center>
+    <h2 class="error">Oops! We encountered a system error.</h2>
+    <p>Please click <a href="/">here</a> to continue to the Home Page.</p>
+</center>
+<?php if (isset($this->error)) { ?>
+    <div id="exception">
+        <p>Exception:</p>
+        <pre><?php print_r($this->error);?></pre>
+    </div>
+<?php } ?>
+<?php if (isset($this->backtrace)) { ?>
+    <div id="backtrace">
+        <p>Backtrace:</p>
+        <pre><?php print_r($this->backtrace);?></pre>
+    </div>
+<?php } ?>

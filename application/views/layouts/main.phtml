@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <?php echo $this->render('main-head-tags.phtml');?>
+    </head>
+    <body>
+        <?php echo $this->render('main-header.phtml');?>
+        <div id="container">
+            <?php echo $this->layout()->content;?>
+        </div>
+        <?php echo $this->render('main-footer.phtml');?>
+    </body>
+</html>
