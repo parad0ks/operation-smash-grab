@@ -23,6 +23,13 @@ ul, li {
     cursor: pointer;
 }
 
+#help {
+    width: 100%;
+	margin-top: 20px;
+    text-align: center;
+    font-size: small;
+}
+
 #content {
     display: none;
     text-align: center;

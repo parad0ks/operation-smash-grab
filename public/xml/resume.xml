@@ -10,29 +10,29 @@
     <summary>
         <title>Skills Summary</title>
         <items>
-            <item>PHP 5.3 ZCE (Zend Certified Engineer) with 7 years of experience using PHP, Perl, Python, JS (jQuery), MySQL, XML, SOAP and REST Web Services, HTML, CSS with additional experience in ANSI C, C++, Java</item>
-            <item>3 years of experience as a Development Lead in an eCommerce team of over 12 developers</item>
-            <item>Over 4 years of experience with MVC architecture frameworks: Zend Framework, CakePHP and Symphony</item>
-            <item>Excellent Object-oriented design, TDD and code profiling skills with experience in architecting modern, customer-facing eCommerce, customer support applications and web services</item>
-            <item>Strong software design documentation skills</item>
-            <item>Strong organizational, leadership and managerial skills</item>
-            <item>Excellent knowledge of advanced mathematics with outstanding deduction and problem solving skills</item>
-            <item>Skilled in working effectively with diverse groups at all organizational levels to achieve common objectives</item>
-            <item>Loyal, driven, aims to exceed expectations and willing to assume increased responsibility</item>
+            <item>Exceptional people manager and mentor that works hard to earn trust of others and develop leaders</item>
+			<item>Experienced with multiple software development methodologies (Waterfall, XP, Agile, Scrum)</item>
+			<item>Skilled in planning, scoping, dependency/risk management, resource deployment, QA and reporting</item>
+			<item>Worked with a number of offshore teams across several time zones in Europe and Asia</item>
+			<item>Excellent verbal and written communication skills with great technical writing abilities</item>
+			<item>Has solid business judgment with good instincts, long-term vision and focus on customer experiences</item>
+			<item>PHP 5.3 ZCE (Zend Certified Engineer) with 8+ years of experience with PHP, MySQL, XML, SOAP and REST Web Services, JavaScript (jQuery), HTML, CSS and additional experience in ANSI C, C++, Java and Python</item>
+			<item>5+ years of experience with MVC architecture frameworks (Zend Framework, CakePHP)</item>
+			<item>Excellent Object-Oriented Design, TDD and Code Profiling skills with experience in architecting modern, customer-facing eCommerce and customer support applications and web services</item>
+			<item>Robust knowledge of advanced mathematics with outstanding deduction and problem solving skills</item>
         </items>
     </summary>
     <experience>
         <title>Professional Experience</title>
         <jobs>
-            <job>
-                <title>Senior Software Engineer, Clearwire (10/2008 - 01/2013)</title>
-                <descriptions>
-                    <description>Contributed to SDLC process changes and development paradigm shift and continuously acted as contributor in business/technical requirement definition, software design, development and review</description>
-                    <description>Lead large project development efforts by architecting modern MVC applications</description>
-                    <description>Redesigned core library (eCommerce) objects using OO  approach and TDD process</description>
-                    <description>Setup customer facing applications using Zend Framework (developed numerous Controller plugins, action Helpers, View helpers and other custom objects extending Zend library) and built various custom frameworks (Multivariate testing, Dynamic Routes, Custom Configuration, etc.)</description>
-                </descriptions>
-            </job>
+			<job>
+				<title>Technical Software Development Manager, Clearwire (4/2011 - 10/2013)</title>
+				<descriptions>
+					<description>Managing a team of 4 SDEs (2 PHP/2 Java) while managing a combination of 2 contrasting agile SDLC’s while constantly making development model adjustments to improve the overall efficiency</description>
+					<description>Managed a team of 4 UX Engineers and set new standards for on-time, high-quality and low-cost creative work, wireframe solutions and successfully lead the team in delivery of jQuery, HTML5 and CSS3 code</description>
+					<description>Leads by empowering employees through fostering transparent communication, hard work, objectiveness, accountability, personal responsibility and by exceeding expectations and maintaining high standards</description>
+				</descriptions>
+			</job>
         </jobs>
     </experience>
     <education>
